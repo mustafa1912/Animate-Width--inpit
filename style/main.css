@@ -1,0 +1,30 @@
+input {
+    height: 45px;
+    border: 0px;
+    border-bottom: 1px solid #2196f3;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+input:focus {
+    border-bottom: 1px solid #2196f3;
+    outline: #2196f3;
+}
+
+.w-75 span {
+    background: #2196f3;
+    height: 10px;
+    height: 10px;
+    border-radius: 4px;
+    width: 0%;
+    transition: 0.8s;
+}
+
+span.w-75 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.num {
+    color: #0d6efd
+}
